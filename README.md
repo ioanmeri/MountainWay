@@ -3,7 +3,7 @@
 
 <a href="https://mountain-way.herokuapp.com/" target="_blank">Visit MountainWay</a>
 
-*Note: May take a moment for the server to respond*
+*Note: Initial load may take a while because inactive apps hibernate*
 
 
 The main reason for this project was to practice responsive design using **Flexbox**. 
