@@ -1,6 +1,8 @@
 # MountainWay
 ## Simple HTML and CSS front-end with FlexBox
 
+*Part of the Course [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/) by Colt Steele, Elie Schoppik, Tim Garcia and Matt Lane*
+
 <a href="https://mountain-way.herokuapp.com/" target="_blank">Visit MountainWay</a>
 
 *Note: Initial load may take a while because inactive apps hibernate*
